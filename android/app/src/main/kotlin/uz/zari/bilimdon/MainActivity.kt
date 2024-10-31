@@ -1,4 +1,4 @@
-package com.myApp.bilimdon
+package uz.zari.bilimdon
 
 import io.flutter.embedding.android.FlutterActivity
 

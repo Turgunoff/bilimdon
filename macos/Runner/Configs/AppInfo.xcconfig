@@ -8,7 +8,7 @@
 PRODUCT_NAME = bilimdon
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.myApp.bilimdon
+PRODUCT_BUNDLE_IDENTIFIER = uz.zari.bilimdon
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2024 com.myApp. All rights reserved.
